@@ -1,0 +1,23 @@
+# Pro-Raima-01
+
+## Haproven Internship Profile
+
+- **Name:** Raima Mondal
+- **HaproID:** Pro-Raima-01
+- **Position:** Junior Frontend Developer
+- **Department:** Web Development
+- **Work Mode:** Remote
+- **Employment:** Part-time
+- **Duration:** 3 Months
+- **Joining Date:** 25 September 2026
+
+## Repository
+
+This repository contains the professional profile, internship work,
+experience record, and contribution details of the member.
+
+## Links
+
+- GitHub: 
+- LinkedIn:
+- HaproID:
