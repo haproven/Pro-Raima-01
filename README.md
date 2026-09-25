@@ -8,7 +8,7 @@
 - **Department:** Web Development
 - **Work Mode:** Remote
 - **Employment:** Part-time
-- **Duration:** 3 Months
+- **Duration:** 2 Months
 - **Joining Date:** 25 September 2026
 
 ## Repository
