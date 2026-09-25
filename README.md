@@ -18,6 +18,6 @@ experience record, and contribution details of the member.
 
 ## Links
 
-- GitHub: 
+- GitHub: https://github.com/raima-mondal2005
 - LinkedIn:
 - HaproID:
