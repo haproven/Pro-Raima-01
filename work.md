@@ -3,7 +3,7 @@
 ## Work Entry
 
 - **Date:**  25/09/2026
-- **Project:** 
+- **Project:** project
 - **Task:** 
 - **Technology:** 
 - **Repository:** 
