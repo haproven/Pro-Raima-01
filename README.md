@@ -19,5 +19,5 @@ experience record, and contribution details of the member.
 ## Links
 
 - GitHub: https://github.com/raima-mondal2005
-- LinkedIn:
-- HaproID:
+- LinkedIn:https://www.linkedin.com/in/raima-mondal-a7a08a37b/
+- HaproID:https://haproid.netlify.app/user/pro-raima-01/
